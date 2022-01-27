@@ -1,6 +1,9 @@
 /*
 Author: Madison Pratt
 Date created: January 23rd, 2022
+Last updated: January 26th, 2022
+
+Revision 1.1
 
 This software allows a SparkFun ESP32 "Thing" to read atmospheric data from
 its environment and provide that data to web services via WiFi.
